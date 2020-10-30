@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ハローローカリゼーション</string>
+    <string name="text">ハローワールド</string>
+    <string name="button1_text">クリックミー!</string>
+    <string name="button2_text">私をクリックしないで！</string>
+</resources>
