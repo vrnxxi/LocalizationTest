@@ -1,0 +1,1 @@
+# LocalizationTest for teaching purposes
